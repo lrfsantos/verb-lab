@@ -1,2 +1,2 @@
 # verb-lab
-we do stuff here dont mind me
+é meu app vibecodado pra ajudar alunos de todas as idades e niveis a decorarem os verbos em inglês
